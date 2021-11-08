@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FlyoutPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StarWarsXF.MainView"
+             xmlns:local="clr-namespace:StarWarsXF" xmlns:local1="clr-namespace:StarWarsXF.Views">
+    <FlyoutPage.Flyout>
+        <local1:MoviesView x:Name="MyFlyoutPage" />
+    </FlyoutPage.Flyout>
+    <FlyoutPage.Detail>
+        <NavigationPage>
+            <x:Arguments>
+                <local1:EmptyMovieDetailsView />
+            </x:Arguments>
+        </NavigationPage>
+    </FlyoutPage.Detail>
+</FlyoutPage>

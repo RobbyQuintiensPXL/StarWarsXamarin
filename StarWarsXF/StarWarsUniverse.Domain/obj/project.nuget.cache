@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4KMZKIoz+9Nsv0ZULQuL49unK9w3hmk98w2zSr3/ATeKLe+cNovktqOWiQSVMJj+TM0hRe6gd9HaA3842g6yhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsUniverse.Domain\\StarWarsUniverse.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\robby\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

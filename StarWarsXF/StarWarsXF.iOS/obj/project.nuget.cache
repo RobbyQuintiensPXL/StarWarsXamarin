@@ -1,0 +1,77 @@
+{
+  "version": 2,
+  "dgSpecHash": "6D3oVl8Khtd3YpynaWpub6Jwk/9hofA+/ce/hOpK4bJUYSnUSDKtKjodfKC7QhV617FzaoUVZ4kzQbDiTGPgjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsXF.iOS\\StarWarsXF.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\robby\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\microsoft.data.sqlite.core\\3.1.20\\microsoft.data.sqlite.core.3.1.20.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.20\\microsoft.entityframeworkcore.3.1.20.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.20\\microsoft.entityframeworkcore.abstractions.3.1.20.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.20\\microsoft.entityframeworkcore.analyzers.3.1.20.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.20\\microsoft.entityframeworkcore.relational.3.1.20.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\3.1.20\\microsoft.entityframeworkcore.sqlite.3.1.20.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\3.1.20\\microsoft.entityframeworkcore.sqlite.core.3.1.20.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.20\\microsoft.extensions.caching.abstractions.3.1.20.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.20\\microsoft.extensions.caching.memory.3.1.20.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.20\\microsoft.extensions.configuration.3.1.20.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.20\\microsoft.extensions.configuration.abstractions.3.1.20.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.20\\microsoft.extensions.configuration.binder.3.1.20.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.20\\microsoft.extensions.dependencyinjection.3.1.20.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.20\\microsoft.extensions.dependencyinjection.abstractions.3.1.20.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\microsoft.extensions.dependencymodel\\3.1.6\\microsoft.extensions.dependencymodel.3.1.6.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\microsoft.extensions.logging\\3.1.20\\microsoft.extensions.logging.3.1.20.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.20\\microsoft.extensions.logging.abstractions.3.1.20.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\microsoft.extensions.options\\3.1.20\\microsoft.extensions.options.3.1.20.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.20\\microsoft.extensions.primitives.3.1.20.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3.ios\\2.0.4\\sqlitepclraw.lib.e_sqlite3.ios.2.0.4.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\sqlitepclraw.provider.internal\\2.0.4\\sqlitepclraw.provider.internal.2.0.4.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\system.text.encodings.web\\4.7.1\\system.text.encodings.web.4.7.1.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\webp.touch\\1.0.8\\webp.touch.1.0.8.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\xamarin.ffimageloading\\2.4.11.982\\xamarin.ffimageloading.2.4.11.982.nupkg.sha512",
+    "C:\\Users\\robby\\.nuget\\packages\\xamarin.ffimageloading.forms\\2.4.11.982\\xamarin.ffimageloading.forms.2.4.11.982.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Essentials from 1.6.1 to 1.5.3.2. Reference the package directly from the project to select a different version. \r\n StarWarsXF.iOS -> StarWarsXF -> Xamarin.Essentials (>= 1.6.1) \r\n StarWarsXF.iOS -> Xamarin.Essentials (>= 1.5.3.2)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 5.0.0.2012 to 4.8.0.1451. Reference the package directly from the project to select a different version. \r\n StarWarsXF.iOS -> StarWarsXF -> Xamarin.Forms (>= 5.0.0.2012) \r\n StarWarsXF.iOS -> Xamarin.Forms (>= 4.8.0.1451)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}
