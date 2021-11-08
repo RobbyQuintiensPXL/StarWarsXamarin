@@ -3825,11 +3825,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsXF.iOS\\StarWarsXF.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsXF.iOS\\StarWarsXF.iOS.csproj",
       "projectName": "StarWarsXF.iOS",
-      "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsXF.iOS\\StarWarsXF.iOS.csproj",
+      "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsXF.iOS\\StarWarsXF.iOS.csproj",
       "packagesPath": "C:\\Users\\robby\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsXF.iOS\\obj\\",
+      "outputPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsXF.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3850,8 +3850,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsXF\\StarWarsXF.csproj": {
-              "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsXF\\StarWarsXF.csproj"
+            "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsXF\\StarWarsXF.csproj": {
+              "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsXF\\StarWarsXF.csproj"
             }
           }
         }

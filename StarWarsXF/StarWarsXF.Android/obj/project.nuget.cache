@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XNkdKGa/LpxjPWIBbJjG3D5//WFkkF/RsYMp2MVpL1TYhLUag+n0d8kIgeLaWXjkvDTGcM00rH8P//byFppuHQ==",
+  "dgSpecHash": "5H+hriF0BUTUhBlOvQi4UP/0HYSXFQRcu0CJLCLmOzDjjOiDTcrNb16cDjBsxICE+zkl5wIvv5F3yTpez6OjCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsXF.Android\\StarWarsXF.Android.csproj",
+  "projectFilePath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsXF.Android\\StarWarsXF.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\robby\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\robby\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsXF.Android\\StarWarsXF.Android.csproj": {}
+    "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsXF.Android\\StarWarsXF.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsUniverse.Data\\StarWarsUniverse.Data.csproj": {
+    "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsUniverse.Data\\StarWarsUniverse.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsUniverse.Data\\StarWarsUniverse.Data.csproj",
+        "projectUniqueName": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsUniverse.Data\\StarWarsUniverse.Data.csproj",
         "projectName": "StarWarsUniverse.Data",
-        "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsUniverse.Data\\StarWarsUniverse.Data.csproj",
+        "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsUniverse.Data\\StarWarsUniverse.Data.csproj",
         "packagesPath": "C:\\Users\\robby\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsUniverse.Data\\obj\\",
+        "outputPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsUniverse.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -32,8 +32,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsUniverse.Domain\\StarWarsUniverse.Domain.csproj": {
-                "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsUniverse.Domain\\StarWarsUniverse.Domain.csproj"
+              "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsUniverse.Domain\\StarWarsUniverse.Domain.csproj": {
+                "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsUniverse.Domain\\StarWarsUniverse.Domain.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsUniverse.Domain\\StarWarsUniverse.Domain.csproj": {
+    "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsUniverse.Domain\\StarWarsUniverse.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsUniverse.Domain\\StarWarsUniverse.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsUniverse.Domain\\StarWarsUniverse.Domain.csproj",
         "projectName": "StarWarsUniverse.Domain",
-        "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsUniverse.Domain\\StarWarsUniverse.Domain.csproj",
+        "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsUniverse.Domain\\StarWarsUniverse.Domain.csproj",
         "packagesPath": "C:\\Users\\robby\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsUniverse.Domain\\obj\\",
+        "outputPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsUniverse.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsXF.Android\\StarWarsXF.Android.csproj": {
+    "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsXF.Android\\StarWarsXF.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsXF.Android\\StarWarsXF.Android.csproj",
+        "projectUniqueName": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsXF.Android\\StarWarsXF.Android.csproj",
         "projectName": "StarWarsXF.Android",
-        "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsXF.Android\\StarWarsXF.Android.csproj",
+        "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsXF.Android\\StarWarsXF.Android.csproj",
         "packagesPath": "C:\\Users\\robby\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsXF.Android\\obj\\",
+        "outputPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsXF.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -176,8 +176,8 @@
         "frameworks": {
           "monoandroid10.0": {
             "projectReferences": {
-              "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsXF\\StarWarsXF.csproj": {
-                "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsXF\\StarWarsXF.csproj"
+              "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsXF\\StarWarsXF.csproj": {
+                "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsXF\\StarWarsXF.csproj"
               }
             }
           }
@@ -190,6 +190,10 @@
               "target": "Package",
               "version": "[1.6.1, )"
             },
+            "Xamarin.FFImageLoading.Forms": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
             "Xamarin.Forms": {
               "target": "Package",
               "version": "[5.0.0.2012, )"
@@ -198,14 +202,14 @@
         }
       }
     },
-    "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsXF\\StarWarsXF.csproj": {
+    "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsXF\\StarWarsXF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsXF\\StarWarsXF.csproj",
+        "projectUniqueName": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsXF\\StarWarsXF.csproj",
         "projectName": "StarWarsXF",
-        "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsXF\\StarWarsXF.csproj",
+        "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsXF\\StarWarsXF.csproj",
         "packagesPath": "C:\\Users\\robby\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsXF\\obj\\",
+        "outputPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsXF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -226,8 +230,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsUniverse.Data\\StarWarsUniverse.Data.csproj": {
-                "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsUniverse.Data\\StarWarsUniverse.Data.csproj"
+              "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsUniverse.Data\\StarWarsUniverse.Data.csproj": {
+                "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsUniverse.Data\\StarWarsUniverse.Data.csproj"
               }
             }
           }

@@ -17,12 +17,12 @@ namespace StarWarsXF {
     public partial class MainView : global::Xamarin.Forms.FlyoutPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::StarWarsXF.Views.MoviesView MyFlyoutPage;
+        private global::StarWarsXF.MoviesView MyFlyoutPage;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MainView));
-            MyFlyoutPage = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::StarWarsXF.Views.MoviesView>(this, "MyFlyoutPage");
+            MyFlyoutPage = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::StarWarsXF.MoviesView>(this, "MyFlyoutPage");
         }
     }
 }

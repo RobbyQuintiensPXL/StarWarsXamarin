@@ -1981,11 +1981,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsXF\\StarWarsXF.csproj",
+      "projectUniqueName": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsXF\\StarWarsXF.csproj",
       "projectName": "StarWarsXF",
-      "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsXF\\StarWarsXF.csproj",
+      "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsXF\\StarWarsXF.csproj",
       "packagesPath": "C:\\Users\\robby\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsXF\\obj\\",
+      "outputPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsXF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -2006,8 +2006,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsUniverse.Data\\StarWarsUniverse.Data.csproj": {
-              "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsUniverse.Data\\StarWarsUniverse.Data.csproj"
+            "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsUniverse.Data\\StarWarsUniverse.Data.csproj": {
+              "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsUniverse.Data\\StarWarsUniverse.Data.csproj"
             }
           }
         }

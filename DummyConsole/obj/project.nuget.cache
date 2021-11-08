@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pRkoMetSuYWX0/TuiDUIK+JHPy7UwPV3iYzXWtMZi2xjh3VhZL/Pl1j1JfAkzjt9ZKGsxeXwHqYzydxow/FA5w==",
+  "dgSpecHash": "1ZTeamcozc5oHiRzGA6KUqTgGOX9eo6T66VC+qs3xHids3uOBZiVPFzAxYsJWFIRTXoTE2STIMeB5IpswroecA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\DummyConsole\\DummyConsole.csproj",
+  "projectFilePath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\DummyConsole\\DummyConsole.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\robby\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\robby\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

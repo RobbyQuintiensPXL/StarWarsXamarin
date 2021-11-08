@@ -4914,11 +4914,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsUniverse.Tests\\StarWarsUniverse.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsUniverse.Tests\\StarWarsUniverse.Tests.csproj",
       "projectName": "StarWarsUniverse.Tests",
-      "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsUniverse.Tests\\StarWarsUniverse.Tests.csproj",
+      "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsUniverse.Tests\\StarWarsUniverse.Tests.csproj",
       "packagesPath": "C:\\Users\\robby\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsUniverse.Tests\\obj\\",
+      "outputPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsUniverse.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -4939,11 +4939,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsUniverse.Data\\StarWarsUniverse.Data.csproj": {
-              "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsUniverse.Data\\StarWarsUniverse.Data.csproj"
+            "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsUniverse.Data\\StarWarsUniverse.Data.csproj": {
+              "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsUniverse.Data\\StarWarsUniverse.Data.csproj"
             },
-            "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsUniverse.Domain\\StarWarsUniverse.Domain.csproj": {
-              "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsUniverse.Domain\\StarWarsUniverse.Domain.csproj"
+            "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsUniverse.Domain\\StarWarsUniverse.Domain.csproj": {
+              "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsUniverse.Domain\\StarWarsUniverse.Domain.csproj"
             }
           }
         }

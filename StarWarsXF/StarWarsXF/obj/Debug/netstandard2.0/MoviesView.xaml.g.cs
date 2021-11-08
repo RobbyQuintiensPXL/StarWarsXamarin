@@ -8,17 +8,21 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("StarWarsXF.MoviesView.xaml", "MoviesView.xaml", typeof(global::StarWarsXF.Views.MoviesView))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("StarWarsXF.MoviesView.xaml", "MoviesView.xaml", typeof(global::StarWarsXF.MoviesView))]
 
-namespace StarWarsXF.Views {
+namespace StarWarsXF {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("MoviesView.xaml")]
     public partial class MoviesView : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
+        private global::Xamarin.Forms.CollectionView SWMoviesCollectionView;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MoviesView));
+            SWMoviesCollectionView = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.CollectionView>(this, "SWMoviesCollectionView");
         }
     }
 }

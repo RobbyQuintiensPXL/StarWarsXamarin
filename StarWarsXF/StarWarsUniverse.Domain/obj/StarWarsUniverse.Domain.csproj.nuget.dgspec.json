@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsUniverse.Domain\\StarWarsUniverse.Domain.csproj": {}
+    "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsUniverse.Domain\\StarWarsUniverse.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsUniverse.Domain\\StarWarsUniverse.Domain.csproj": {
+    "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsUniverse.Domain\\StarWarsUniverse.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsUniverse.Domain\\StarWarsUniverse.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsUniverse.Domain\\StarWarsUniverse.Domain.csproj",
         "projectName": "StarWarsUniverse.Domain",
-        "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsUniverse.Domain\\StarWarsUniverse.Domain.csproj",
+        "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsUniverse.Domain\\StarWarsUniverse.Domain.csproj",
         "packagesPath": "C:\\Users\\robby\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsUniverse.Domain\\obj\\",
+        "outputPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsUniverse.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

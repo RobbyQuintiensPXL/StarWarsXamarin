@@ -3492,6 +3492,7 @@
     "MonoAndroid,Version=v10.0": [
       "StarWarsXF >= 1.0.0",
       "Xamarin.Essentials >= 1.6.1",
+      "Xamarin.FFImageLoading.Forms >= 2.4.11.982",
       "Xamarin.Forms >= 5.0.0.2012"
     ]
   },
@@ -3502,11 +3503,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsXF.Android\\StarWarsXF.Android.csproj",
+      "projectUniqueName": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsXF.Android\\StarWarsXF.Android.csproj",
       "projectName": "StarWarsXF.Android",
-      "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsXF.Android\\StarWarsXF.Android.csproj",
+      "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsXF.Android\\StarWarsXF.Android.csproj",
       "packagesPath": "C:\\Users\\robby\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsXF.Android\\obj\\",
+      "outputPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsXF.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3527,8 +3528,8 @@
       "frameworks": {
         "monoandroid10.0": {
           "projectReferences": {
-            "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsXF\\StarWarsXF.csproj": {
-              "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsXF\\StarWarsXF.csproj"
+            "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsXF\\StarWarsXF.csproj": {
+              "projectPath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsXF\\StarWarsXF.csproj"
             }
           }
         }
@@ -3540,6 +3541,10 @@
           "Xamarin.Essentials": {
             "target": "Package",
             "version": "[1.6.1, )"
+          },
+          "Xamarin.FFImageLoading.Forms": {
+            "target": "Package",
+            "version": "[2.4.11.982, )"
           },
           "Xamarin.Forms": {
             "target": "Package",

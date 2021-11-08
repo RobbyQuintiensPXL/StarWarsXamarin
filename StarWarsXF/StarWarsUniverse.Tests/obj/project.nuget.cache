@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s4MKni5bvowcn5XAcPszHcPRGTjDReplKnfxIE3+Oh9M/xK+nG7hVnledBcShU2eEAoVtHMCYfk/ZzMKdUq1pQ==",
+  "dgSpecHash": "MgiSK+Sy9ooVNqRwRuJ3JTdFPMJSCJtxE3xi4P2RIIoUevvPC9H5tU6FHpt5EQOKqMwyaOiaC+Y2At2wz3LaOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXF\\StarWarsUniverse.Tests\\StarWarsUniverse.Tests.csproj",
+  "projectFilePath": "C:\\Users\\robby\\source\\repos\\StarWarsXF\\StarWarsXamarin\\StarWarsXF\\StarWarsUniverse.Tests\\StarWarsUniverse.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\robby\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\robby\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

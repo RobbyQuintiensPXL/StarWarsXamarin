@@ -1,13 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="StarWarsXF.Views.MoviesView"
-              Title="Star Wars">
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="StarWarsXF.MoviesView" 
+             Title="Star Wars">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+        <StackLayout VerticalOptions="FillAndExpand">
+            <CollectionView x:Name="SWMoviesCollectionView" SelectionMode="Single">
+                <CollectionView.Header>
+                    <Grid BackgroundColor="#03A9F4">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="10"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="10"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="30"/>
+                            <RowDefinition Height="80"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="10"/>
+                        </Grid.RowDefinitions>
+                        <Label
+                            Grid.Column="1"
+                            Grid.Row="2"
+                            Text="Star Wars"
+                            Style="{DynamicResource SubtitleStyle}"/>
+                    </Grid>
+                </CollectionView.Header>
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout HorizontalOptions="Start" Orientation="Horizontal" Padding="10, 20, 0, 5">
+                            <Label Text="Episode " Style="{DynamicResource ListItemTextStyle}"/>
+                            <Label Text="{Binding EpisodeId}" Style="{DynamicResource ListItemTextStyle}" />
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
